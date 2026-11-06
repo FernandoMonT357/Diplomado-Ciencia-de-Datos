@@ -1,3 +1,4 @@
+# Tareas - Modulo 2
+
 En esta carpeta se almacenarán los ejercicios,
-actividades y proyectos desarrollados
-como parte del Módulo 1.
+actividades y proyectos desarrollados.
