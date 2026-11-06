@@ -74,7 +74,17 @@ Desarrollo y evaluación de modelos de aprendizaje profundo orientados a la dete
 - Aplicaciones específicas y proyectos prácticos.
 
 **Carpeta:** `05_Deep_Learning_en_Aplicaciones_Agricolas/`
+## Navegación del diplomado
 
+Selecciona el módulo que deseas consultar:
+
+| Módulo | Contenido | Materiales | Tareas |
+|---|---|---|---|
+| **Módulo 1** | Fundamentos de Programación | [Consultar](./01_Fundamentos_de_Programacion/Materiales/) | [Consultar](./01_Fundamentos_de_Programacion/Tareas/) |
+| **Módulo 2** | Introducción a la Estadística para Ciencia de Datos | [Consultar](./02_Estadistica_para_Ciencia_de_Datos/Materiales/) | [Consultar](./02_Estadistica_para_Ciencia_de_Datos/Tareas/) |
+| **Módulo 3** | Herramientas de Ciencia de Datos y Machine Learning | [Consultar](./03_Herramientas_de_Ciencia_de_Datos_y_Machine_Learning/Materiales/) | [Consultar](./03_Herramientas_de_Ciencia_de_Datos_y_Machine_Learning/Tareas/) |
+| **Módulo 4** | Redes Neuronales Aplicadas a Imágenes | [Consultar](./04_Redes_Neuronales_Aplicadas_a_Imagenes/Materiales/) | [Consultar](./04_Redes_Neuronales_Aplicadas_a_Imagenes/Tareas/) |
+| **Módulo 5** | Deep Learning en Aplicaciones Agrícolas | [Consultar](./05_Deep_Learning_en_Aplicaciones_Agricolas/Materiales/) | [Consultar](./05_Deep_Learning_en_Aplicaciones_Agricolas/Tareas/) |
 ## Organización del repositorio
 
 Cada módulo cuenta con una estructura independiente para separar los materiales de consulta de los trabajos desarrollados.
